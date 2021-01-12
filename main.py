@@ -13,3 +13,4 @@ def main():
     joueur.entrer_casino(casino)
     joueur.jouer()
 
+main()
